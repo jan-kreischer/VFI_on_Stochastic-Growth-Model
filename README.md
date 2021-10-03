@@ -1,6 +1,6 @@
-#Solving the Stochastic Growth Model via Value Function Iteration.  
+# Solving the Stochastic Growth Model via Value Function Iteration.  
 Our task was to solve the stochastic growth model with non-negative investment via value function iteration.  
-First, a brief description of the model will be given, followed by the applied methods carried out for the computational analyses.  
+In the [report](report.pdf), a brief description of the model will be given, followed by the applied methods carried out for the computational analyses.  
 The economic as well as the computational aspects of the kinkcomplete the report.  
 Value function iteration is one of the most important and known methods in order to solve Dynamic General Equilibrium models.  
 In this paper, we use the value function iteration (VFI) to solve the stochastic growth model with non-negative investment constraint, that is described by Heer and Maussnerin their book “Dynamic General Equilibrium Modeling”.  
